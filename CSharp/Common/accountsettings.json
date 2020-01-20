@@ -1,8 +1,8 @@
 ﻿{
-  "batchAccountName": "",
-  "batchAccountKey": "",
-  "batchServiceUrl": "",
-  "storageAccountName": "",
-  "storageAccountKey": "",
+  "batchAccountName": "batchmalon",
+  "batchAccountKey": "B4ICN2mknkkcb3GecFYS9/1TLUeeZz/sCwbDuWm6sjrLeqVsg0vIj2fePxwhVKFCsBHEIIEL25kC/c1zQwmaTg==",
+  "batchServiceUrl": "https://batchmalon.westeurope.batch.azure.com",
+  "storageAccountName": "csb4eccdbbc0702x4d9ex8d1",
+  "storageAccountKey": "dDqrOwWDZR1cVHKtdjlZ1iswvqF9A3+CBATFtT/ul5mvrndFMlJgauhYLiM4av4sPAMYKeYwRZbOaAYUmLJEZg==",
   "storageServiceUrl": "core.windows.net"
 }
